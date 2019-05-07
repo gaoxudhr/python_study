@@ -1,0 +1,1 @@
+print('hello %s %d' % ('gaoxu', 26) )
